@@ -1,0 +1,45 @@
+
+exercicio 1
+resposta 4
+
+exercicio2
+resposta d
+
+
+exercicio3
+algoritimo 1
+1- abrir po de cafe
+2- separar fervedor
+3 -colocar agua no fervedor
+4- ligar fogo
+5- colocar fervedor com agua para aquecer
+6- colocar po e açucar na agua
+7- esperar 5 minutor
+8- desligar fogo
+9- separar coador 
+10- separar filtro
+11- garrafa de cafe
+12- colocar filtro no coador
+13- posicionar coador acima da grarafa de cafe
+14- despejar mistura do fervedor no coador
+15- apos liquido ser coado fechar garrafa
+
+
+algoritimo 2
+1- separar  nome e dosagem do medicamento
+2- ligar para farmacia
+3 -passar nome e dosagem do medicamento para telefonista
+4- verificar disponibilidade e preço
+5- autorizar envio do medicamento
+6- pagar medicamento
+
+
+algoritimo 3
+1- separar ingredientes
+2- separar vasilhames e utencilios
+3 -medir ingredientes e colocar no vasilhame
+4- misturar ingredientes
+5- ligar forno
+6- colocar mistura para assar em forma dentro do forno
+7- aguardar tempo para assar
+8- desligar forno
